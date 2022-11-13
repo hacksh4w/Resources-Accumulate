@@ -1,5 +1,5 @@
  <h1 align="center">Resources-Accumulate </h1>
-WED DEV RESOURCES 
+## WED DEV RESOURCES 
 
 
 #### YouTube channels
