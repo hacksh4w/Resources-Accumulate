@@ -1,4 +1,4 @@
-# Resources-Accumulate 
+ <div align="center"># Resources-Accumulate </div>
 WED DEV RESOURCES 
 
 
