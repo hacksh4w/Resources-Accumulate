@@ -64,14 +64,25 @@
 - https://www.youtube.com/playlist?list=PLY-ecO2csVHfgVM9sChmUirqK7BXUBX9P
 - https://reactrouter.com/en/main/start/tutorial
 
+### Useful Extesions 
+
+- https://github.com/igrigorik/videospeed
+- https://chrome.google.com/webstore/detail/pesticide-for-chrome/bakpbgckdnepkmkeaiomhmfcnejndkbi
+- https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk
+- https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh
+- https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg
+
+ ## VS Code extensions
+
+  - https://markfusion.medium.com/10-vscode-extensions-that-every-web-developer-should-use-23894b2ccf2
+  -
+  
+  
 ### StartUp/Business Stuff
  
 - https://www.producthunt.com/
 - https://news.ycombinator.com/
 - https://growth.design/case-studies
-- 
-- 
-- 
 - 
 - https://buildd.co/courses/startup-seo
 
