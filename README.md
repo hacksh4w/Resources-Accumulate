@@ -12,9 +12,7 @@
 - https://www.youtube.com/watch?v=8gNrZ4lAnAw&ab_channel=DesignCourse
 
 
-
-
-#### Sites
+#### Webites
 
  * [FreeCodeCamp](http://freecodecamp.com) - Coding tutorials and challenges.
  * [The Odin Project](https://www.theodinproject.com/) - A full free open source coding curriculum.
@@ -28,7 +26,10 @@
  * [Scrimba](https://scrimba.com/) - Provides Web Development Courses with a unique feature of live interaction with the instructor's code.
  * [FrontendMasters](https://frontendmasters.com/) - In-depth and advanced video tutorials on Frontend Devlopment from experts in the industry.
  
- 
+ ### Design 
+- https://github.com/Excel2022Web/Resources
+- https://storyset.com/
+- https://uigradients.com/#EasyMed
  
  
 ### Bootstrap
@@ -58,10 +59,3 @@
 
 - https://www.youtube.com/watch?v=QyFcl_Fba-k&ab_channel=TheNetNinja
 - https://www.youtube.com/watch?v=bFVtrlyH-kc&t=18s&ab_channel=TheCodingTrain
-
-
-### Design 
-- https://github.com/Excel2022Web/Resources
-- https://storyset.com/
-- https://uigradients.com/#EasyMed
-
