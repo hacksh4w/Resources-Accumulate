@@ -16,7 +16,6 @@
 
  * [FreeCodeCamp](http://freecodecamp.com) - Coding tutorials and challenges.
  * [The Odin Project](https://www.theodinproject.com/) - A full free open source coding curriculum.
- * [The Odin Project](https://www.theodinproject.com/) - A full free open source coding curriculum.
  * [W3Schools](https://www.w3schools.com/) - Tutorials on HTML, CSS, JavaScript and more.
  * [Thimble](https://thimble.mozilla.org/en-US/) - Free online code editor, web server, web browser & developer tools.
  * [NodeSchool](https://nodeschool.io) - Open source workshops that teach web software skills.
