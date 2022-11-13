@@ -1,5 +1,5 @@
  <h1 align="center">Resources-Accumulate </h1>
-## WED DEV RESOURCES 
+ <h2>WED DEV RESOURCES</h2> 
  
  - https://github.com/thedaviddias/Front-End-Checklist
 #### YouTube channels
