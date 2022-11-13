@@ -1,7 +1,7 @@
  <h1 align="center">Resources-Accumulate </h1>
 ## WED DEV RESOURCES 
-
-
+ 
+ - https://github.com/thedaviddias/Front-End-Checklist
 #### YouTube channels
 
 - https://www.youtube.com/watch?v=mU6anWqZJcc&list=PLWKjhJtqVAbnSe1qUNMG7AbPmjIG54u88&ab_channel=freeCodeCamp.org
@@ -12,7 +12,7 @@
 - https://www.youtube.com/watch?v=8gNrZ4lAnAw&ab_channel=DesignCourse
 
 
-#### Webites
+#### Websites
 
  * [FreeCodeCamp](http://freecodecamp.com) - Coding tutorials and challenges.
  * [The Odin Project](https://www.theodinproject.com/) - A full free open source coding curriculum.
@@ -27,7 +27,10 @@
  
  ### Design 
 - https://github.com/Excel2022Web/Resources
+- https://dribbble.com/shots/popular
+- https://growth.design/case-studies
 - https://storyset.com/
+- https://www.humaaans.com/
 - https://uigradients.com/#EasyMed
  
  
@@ -46,11 +49,35 @@
 - https://www.youtube.com/watch?v=yQimoqo0-7g&ab_channel=EasyTutorials
 - https://www.youtube.com/watch?v=lBfshkPlMW8&ab_channel=EasyTutorials 
 - https://github.com/Excel2022Web/Resources
+- https://dribbble.com/shots/popular
+
+### Javascript 
+
+- https://javascript.info/
+- https://egghead.io/q/javascript?access_state=free
+- https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
 ### React
+- https://medium.com/javascript-scene/the-missing-introduction-to-react-62837cb2fd76
 - https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=4573s
 - https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3
 - https://www.youtube.com/playlist?list=PLY-ecO2csVHfgVM9sChmUirqK7BXUBX9P
+- https://reactrouter.com/en/main/start/tutorial
 
+### StartUp/Business Stuff
+ 
+- https://www.producthunt.com/
+- https://news.ycombinator.com/
+- https://growth.design/case-studies
+- 
+- 
+- 
+- 
+- https://buildd.co/courses/startup-seo
+
+### Github Readme Builder Resources
+*BAdges*
+- https://shields.io/
 
 ### Deploying sites
 
@@ -58,3 +85,6 @@
 
 - https://www.youtube.com/watch?v=QyFcl_Fba-k&ab_channel=TheNetNinja
 - https://www.youtube.com/watch?v=bFVtrlyH-kc&t=18s&ab_channel=TheCodingTrain
+
+
+
