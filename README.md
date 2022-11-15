@@ -31,6 +31,7 @@
 - https://growth.design/case-studies
 - https://storyset.com/
 - https://www.humaaans.com/
+- https://developer.mozilla.org/en-US/docs/Web/CSS/clip-path
 - https://uigradients.com/#EasyMed
  
  
