@@ -66,7 +66,7 @@
 - https://reactrouter.com/en/main/start/tutorial
 
 ### React-three   (Designs to Die For)
--https://codesandbox.io/s/l4klb
+- https://codesandbox.io/s/l4klb
 -
 
 ### Useful Extesions 
@@ -93,6 +93,7 @@
 
 ### Github Readme Builder Resources
 *BAdges*
+- https://github.com/alexandresanlim/Badges4-README.md-Profile/blob/master/README.md
 - https://shields.io/
 
 ### Deploying sites
