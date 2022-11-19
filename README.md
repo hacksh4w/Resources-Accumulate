@@ -28,6 +28,7 @@
  ### Design 
 - https://github.com/Excel2022Web/Resources
 - https://dribbble.com/shots/popular
+- https://github.com/alexandresanlim/Collection.NiceToolsForAppDesign 
 - https://growth.design/case-studies
 - https://storyset.com/
 - https://www.humaaans.com/
