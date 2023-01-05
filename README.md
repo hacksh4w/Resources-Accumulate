@@ -1,4 +1,6 @@
  <h1 align="center">Resources-Accumulate </h1>
+ 
+ [The Missing Semester of Your CS Education](https://missing.csail.mit.edu)
  <h2>WED DEV RESOURCES</h2> 
  
  - https://github.com/thedaviddias/Front-End-Checklist
