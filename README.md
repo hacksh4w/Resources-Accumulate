@@ -56,7 +56,7 @@
 - https://dribbble.com/shots/popular
 
 ### SQL Quick Reference
-- (Learn SQL In 60 Minutes)[https://www.youtube.com/watch?v=p3qvj9hO_Bo&list=PLZlA0Gpn_vH85jM1TWO6TdCtSr6ruglWn&index=3]
+- [Learn SQL In 60 Minutes](https://www.youtube.com/watch?v=p3qvj9hO_Bo&list=PLZlA0Gpn_vH85jM1TWO6TdCtSr6ruglWn&index=3)
 
 ### Javascript 
 
