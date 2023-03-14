@@ -58,6 +58,9 @@
 ### SQL Quick Reference
 - [Learn SQL In 60 Minutes](https://www.youtube.com/watch?v=p3qvj9hO_Bo&list=PLZlA0Gpn_vH85jM1TWO6TdCtSr6ruglWn&index=3)
 
+### Firebase
+- [React-Firebase Hooks](https://github.com/CSFrequency/react-firebase-hooks)
+
 ### Javascript 
 
 - https://javascript.info/
@@ -71,7 +74,7 @@
 - https://www.youtube.com/playlist?list=PLY-ecO2csVHfgVM9sChmUirqK7BXUBX9P
 - https://reactrouter.com/en/main/start/tutorial
 
-### MAterial UI 
+### Material UI 
 - https://mui-treasury.com/styles/text-field/
 
 ### React-three   (Designs to Die For)
