@@ -115,5 +115,9 @@
 - https://www.youtube.com/watch?v=QyFcl_Fba-k&ab_channel=TheNetNinja
 - https://www.youtube.com/watch?v=bFVtrlyH-kc&t=18s&ab_channel=TheCodingTrain
 
+### Interview Questions
+#### OOP
+#### DBMS
+
 
 
