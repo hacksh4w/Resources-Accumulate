@@ -116,8 +116,10 @@
 - https://www.youtube.com/watch?v=bFVtrlyH-kc&t=18s&ab_channel=TheCodingTrain
 
 ### Interview Questions
-#### OOP
-#### DBMS
+- OOP
+- Network Theory
+- DBMS
+- OS
 
 
 
