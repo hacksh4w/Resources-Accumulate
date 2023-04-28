@@ -152,3 +152,12 @@
 
 
 
+<!---  Readme Restructure Reqd
+
+1. Front End  
+2. Backend
+3. Design & Tools like loom, obs, cam8
+4. Entrepreneurship
+5. Career - DSA, Resume, Gh, etc
+-Add tables and embedded stuff
+--->
