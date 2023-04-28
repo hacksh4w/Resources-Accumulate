@@ -1,4 +1,38 @@
  <h1 align="center">Resources-Accumulate </h1>
+ <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+ <img src=" https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+ <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
+ <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+ <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
+ <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white">
+ <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+ <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+ <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
+ <img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white">
+ <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E">
+ 
+ 
+ <!---
+ https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
+ https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white
+	https://img.shields.io/badge/Solid%20JS-2C4F7C?style=for-the-badge&logo=solid&logoColor=white
+ https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white
+ https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
+ https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white
+ https://img.shields.io/badge/Hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white
+	https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white
+ https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white
+ https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white
+	https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue
+ https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
+ https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white
+ https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green
+	https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white
+ https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
+ https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white
+ 
+ 
+ --->
  
  [The Missing Semester of Your CS Education](https://missing.csail.mit.edu)
  <h2>WED DEV RESOURCES</h2>  
