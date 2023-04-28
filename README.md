@@ -67,12 +67,15 @@
 - https://egghead.io/q/javascript?access_state=free
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
-### React
+### React.js
 - https://medium.com/javascript-scene/the-missing-introduction-to-react-62837cb2fd76
 - https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=4573s
 - https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3
 - https://www.youtube.com/playlist?list=PLY-ecO2csVHfgVM9sChmUirqK7BXUBX9P
 - https://reactrouter.com/en/main/start/tutorial
+
+### Next.js
+- [Net Ninja's Next Playlist](https://www.youtube.com/watch?v=A63UxsQsEbU&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw)
 
 ### Material UI 
 - https://mui-treasury.com/styles/text-field/
