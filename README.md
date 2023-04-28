@@ -21,7 +21,8 @@
  https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
  --->
- [The Missing Semester of Your CS Education](https://missing.csail.mit.edu)
+ ### [The Missing Semester of Your CS Education](https://missing.csail.mit.edu)
+ 
  <h2>WED DEV RESOURCES</h2>  
  - https://github.com/thedaviddias/Front-End-Checklist
 
