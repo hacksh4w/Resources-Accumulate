@@ -11,12 +11,12 @@
 - https://www.youtube.com/@NetNinja
 - https://www.youtube.com/@TraversyMedia
 - https://www.youtube.com/@Fireship
-- https://www.youtube.com/watch?v=mU6anWqZJcc&list=PLWKjhJtqVAbnSe1qUNMG7AbPmjIG54u88&ab_channel=freeCodeCamp.org
-- https://www.youtube.com/watch?v=qz0aGYrrlhU&ab_channel=ProgrammingwithMosh
 - https://www.youtube.com/@BrototypeMalayalam
-- https://www.youtube.com/watch?v=C5QFHp1oAws&ab_channel=BringYourOwnLaptop
-- https://www.youtube.com/watch?v=vQWlgd7hV4A&ab_channel=DevEd
-- https://www.youtube.com/watch?v=8gNrZ4lAnAw&ab_channel=DesignCourse
+- [HTML & CSS3 by FCC](https://www.youtube.com/watch?v=mU6anWqZJcc&list=PLWKjhJtqVAbnSe1qUNMG7AbPmjIG54u88&ab_channel=freeCodeCamp.org)
+- [HTML & CSS3](https://www.youtube.com/watch?v=qz0aGYrrlhU&ab_channel=ProgrammingwithMosh)
+- [HTML & CSS3](https://www.youtube.com/watch?v=C5QFHp1oAws&ab_channel=BringYourOwnLaptop)
+- [HTML & CSS3](https://www.youtube.com/watch?v=vQWlgd7hV4A&ab_channel=DevEd)
+- [HTML & CSS3](https://www.youtube.com/watch?v=8gNrZ4lAnAw&ab_channel=DesignCourse)
 
 
 #### Websites
