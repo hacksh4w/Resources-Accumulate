@@ -70,8 +70,8 @@
 ### React.js
 - https://medium.com/javascript-scene/the-missing-introduction-to-react-62837cb2fd76
 - [React JS Crash Course by Traversy Media](https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=4573s)
-- [React Playlist by Codevolution](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3) - React Playlist in Malayalam
-- [React Playlist by Brototype](https://www.youtube.com/playlist?list=PLY-ecO2csVHfgVM9sChmUirqK7BXUBX9P)
+- [React Playlist by Codevolution](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3)
+- [React Playlist by Brototype](https://www.youtube.com/playlist?list=PLY-ecO2csVHfgVM9sChmUirqK7BXUBX9P) - React Playlist in Malayalam
 - [React Router Documentation](https://reactrouter.com/en/main/start/tutorial)
 
 ### Next.js
