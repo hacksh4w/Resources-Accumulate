@@ -1,9 +1,10 @@
  <h1 align="center">Resources-Accumulate </h1>
  
  [The Missing Semester of Your CS Education](https://missing.csail.mit.edu)
- <h2>WED DEV RESOURCES</h2> 
- 
+ <h2>WED DEV RESOURCES</h2>  
  - https://github.com/thedaviddias/Front-End-Checklist
+
+
 #### YouTube channels
 
 - https://www.youtube.com/watch?v=mU6anWqZJcc&list=PLWKjhJtqVAbnSe1qUNMG7AbPmjIG54u88&ab_channel=freeCodeCamp.org
@@ -27,41 +28,7 @@
  * [Scrimba](https://scrimba.com/) - Provides Web Development Courses with a unique feature of live interaction with the instructor's code.
  * [FrontendMasters](https://frontendmasters.com/) - In-depth and advanced video tutorials on Frontend Devlopment from experts in the industry.
  
- ### Design 
-- https://github.com/Excel2022Web/Resources
-- https://dribbble.com/shots/popular
-- https://github.com/alexandresanlim/Collection.NiceToolsForAppDesign 
-- https://growth.design/case-studies
-- https://storyset.com/
-- https://www.humaaans.com/
-- https://developer.mozilla.org/en-US/docs/Web/CSS/clip-path
-- https://uigradients.com/#EasyMed
- 
- 
-### Bootstrap
-
-- https://www.youtube.com/watch?v=5GcQtLDGXy8&t=3870s&ab_channel=TraversyMedia
-- https://www.youtube.com/watch?v=fnTs-daHqyw&ab_channel=Crossroads
-- https://www.youtube.com/watch?v=c9B4TPnak1A&ab_channel=Keepcoding
-- https://www.youtube.com/watch?v=xvfm7IpEkBk&list=PL4cUxeGkcC9g_69kOfXICzT_hZ79_td99
-- https://www.youtube.com/watch?v=q9e2GsQaEKE&list=PLgp11Hu-N4DSXbjKRg9A76Bm9li7mgB4L
-- https://www.youtube.com/watch?v=Yz3iYSu-cXM&ab_channel=TintuVlogger
-
-### Beautiful UI Projects
-
-- Playlist : https://www.youtube.com/watch?v=v0IgI8vYD_o&list=PL1MK7nFniZZYRV5sign661Pq--3DbF9Bn&ab_channel=EasyTutorials
-- https://www.youtube.com/watch?v=yQimoqo0-7g&ab_channel=EasyTutorials
-- https://www.youtube.com/watch?v=lBfshkPlMW8&ab_channel=EasyTutorials 
-- https://github.com/Excel2022Web/Resources
-- https://dribbble.com/shots/popular
-
-### SQL Quick Reference
-- [Learn SQL In 60 Minutes](https://www.youtube.com/watch?v=p3qvj9hO_Bo&list=PLZlA0Gpn_vH85jM1TWO6TdCtSr6ruglWn&index=3)
-
-### Firebase
-- [React-Firebase Hooks](https://github.com/CSFrequency/react-firebase-hooks)
-
-### Javascript 
+ ### Javascript 
 
 - https://javascript.info/
 - https://egghead.io/q/javascript?access_state=free
@@ -76,6 +43,42 @@
 
 ### Next.js
 - [Net Ninja's Next Playlist](https://www.youtube.com/watch?v=A63UxsQsEbU&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw)
+
+
+ 
+ 
+### Bootstrap
+
+- https://www.youtube.com/watch?v=5GcQtLDGXy8&t=3870s&ab_channel=TraversyMedia
+- https://www.youtube.com/watch?v=fnTs-daHqyw&ab_channel=Crossroads
+- https://www.youtube.com/watch?v=c9B4TPnak1A&ab_channel=Keepcoding
+- https://www.youtube.com/watch?v=xvfm7IpEkBk&list=PL4cUxeGkcC9g_69kOfXICzT_hZ79_td99
+- https://www.youtube.com/watch?v=q9e2GsQaEKE&list=PLgp11Hu-N4DSXbjKRg9A76Bm9li7mgB4L
+- https://www.youtube.com/watch?v=Yz3iYSu-cXM&ab_channel=TintuVlogger
+
+### Design 
+- https://github.com/Excel2022Web/Resources
+- https://dribbble.com/shots/popular
+- https://github.com/alexandresanlim/Collection.NiceToolsForAppDesign 
+- https://growth.design/case-studies
+- https://storyset.com/
+- https://www.humaaans.com/
+- https://developer.mozilla.org/en-US/docs/Web/CSS/clip-path
+- https://uigradients.com/#EasyMed
+- 
+### Beautiful UI Projects
+
+- Playlist : https://www.youtube.com/watch?v=v0IgI8vYD_o&list=PL1MK7nFniZZYRV5sign661Pq--3DbF9Bn&ab_channel=EasyTutorials
+- https://www.youtube.com/watch?v=yQimoqo0-7g&ab_channel=EasyTutorials
+- https://www.youtube.com/watch?v=lBfshkPlMW8&ab_channel=EasyTutorials 
+- https://github.com/Excel2022Web/Resources
+- https://dribbble.com/shots/popular
+
+### SQL Quick Reference
+- [Learn SQL In 60 Minutes](https://www.youtube.com/watch?v=p3qvj9hO_Bo&list=PLZlA0Gpn_vH85jM1TWO6TdCtSr6ruglWn&index=3)
+
+### Firebase
+- [React-Firebase Hooks](https://github.com/CSFrequency/react-firebase-hooks)
 
 ### Material UI 
 - https://mui-treasury.com/styles/text-field/
@@ -96,7 +99,6 @@
 
   - https://markfusion.medium.com/10-vscode-extensions-that-every-web-developer-should-use-23894b2ccf2
   -
-  
   
 ### StartUp/Business Stuff
  
