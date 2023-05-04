@@ -35,9 +35,9 @@
 - https://www.youtube.com/@Fireship
 - https://www.youtube.com/@BrototypeMalayalam
 - [HTML & CSS3 by FCC](https://www.youtube.com/watch?v=mU6anWqZJcc&list=PLWKjhJtqVAbnSe1qUNMG7AbPmjIG54u88&ab_channel=freeCodeCamp.org)
-- [HTML & CSS3](https://www.youtube.com/watch?v=qz0aGYrrlhU&ab_channel=ProgrammingwithMosh)
-- [HTML & CSS3](https://www.youtube.com/watch?v=C5QFHp1oAws&ab_channel=BringYourOwnLaptop)
-- [HTML & CSS3](https://www.youtube.com/watch?v=vQWlgd7hV4A&ab_channel=DevEd)
+- [HTML & CSS3](https://www.youtube.com/watch?v=qz0aGYrrlhU&ab_channel=ProgrammingwithMosh)  by Prorgamming with Mosh
+- [HTML & CSS3](https://www.youtube.com/watch?v=C5QFHp1oAws&ab_channel=BringYourOwnLaptop) by Bring Your Own Laptop
+- [HTML & CSS3](https://www.youtube.com/watch?v=vQWlgd7hV4A&ab_channel=DevEd) by DevEd
 - [HTML & CSS3](https://www.youtube.com/watch?v=8gNrZ4lAnAw&ab_channel=DesignCourse)
 
 
