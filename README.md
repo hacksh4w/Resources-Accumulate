@@ -25,8 +25,7 @@
  
  <h2>WED DEV RESOURCES</h2>  
  - https://github.com/thedaviddias/Front-End-Checklist
- - https://github.com/alan2207/awesome-codebases
- - 
+ - https://github.com/alan2207/awesome-codebases 
 
 #### YouTube channels
 
