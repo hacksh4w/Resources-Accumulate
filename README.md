@@ -61,6 +61,7 @@
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript
 
 ### React.js
+- https://github.com/alan2207/bulletproof-react
 - https://medium.com/javascript-scene/the-missing-introduction-to-react-62837cb2fd76
 - [React JS Crash Course by Traversy Media](https://www.youtube.com/watch?v=w7ejDZ8SWv8&t=4573s)
 - [React Playlist by Codevolution](https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3)
@@ -69,9 +70,9 @@
 
 ### Next.js
 - [Net Ninja's Next Playlist](https://www.youtube.com/watch?v=A63UxsQsEbU&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw)
-
-
- 
+- [Learn Next js 13 with this one project - Web Dev Simplified](https://www.youtube.com/watch?v=NgayZAuTgwM)
+- [Traversy Media's NEXT Video](https://www.youtube.com/watch?v=Y6KDk5iyrYE)
+- [Javascript Mastery's Video](https://www.youtube.com/watch?v=wm5gMKuwSYk)
  
 ### Bootstrap
 
