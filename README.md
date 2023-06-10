@@ -25,7 +25,8 @@
  
  <h2>WED DEV RESOURCES</h2>  
  - https://github.com/thedaviddias/Front-End-Checklist
-
+ - https://github.com/alan2207/awesome-codebases
+ - 
 
 #### YouTube channels
 
@@ -107,6 +108,9 @@
 ### Firebase
 - [React-Firebase Hooks](https://github.com/CSFrequency/react-firebase-hooks)
 
+
+### TailwindCSS
+- [eact Components built for Tailwind nd Flowbite](https://github.com/themesberg/flowbite-react)
 ### Material UI 
 - https://mui-treasury.com/styles/text-field/
 
