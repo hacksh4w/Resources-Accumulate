@@ -109,14 +109,15 @@
 
 
 ### TailwindCSS
-- [eact Components built for Tailwind nd Flowbite](https://github.com/themesberg/flowbite-react)
+- [React Components built for Tailwind nd Flowbite](https://github.com/themesberg/flowbite-react)
 ### Material UI 
 - https://mui-treasury.com/styles/text-field/
 
 ### React-three   (Designs to Die For)
 - https://codesandbox.io/s/l4klb
 -
-
+### Ml
+- https://betterprogramming.pub/can-you-learn-machine-learning-in-a-year-6edf66623121
 ### Useful Extesions 
 
 - https://github.com/igrigorik/videospeed
