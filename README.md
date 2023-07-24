@@ -143,6 +143,22 @@
 - https://github.com/alexandresanlim/Badges4-README.md-Profile/blob/master/README.md
 - https://shields.io/
 
+<!------
+- https://github.com/guilyx
+- https://github.com/Spiderpig86
+https://github.com/Thaiane?tab=overview&from=2018-12-01&to=2018-12-31
+https://github.com/MartinHeinz
+https://github.com/garimasingh128
+https://gprm.itsvg.in/
+https://rahuldkjain.github.io/gh-profile-readme-generator/
+https://aboutmonica.com/blog/how-to-create-a-github-profile-readme/#how-do-i-create-a-profile-readme
+https://github.com/jasonetco => figure out the recent activity thing
+https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/
+https://giphy.com/gifs/reaction-program-programmers-349qKnoIBHK1i
+https://www.sitepoint.com/github-profile-readme/
+https://giphy.com/gifs/japan-jet-alt-BemKqR9RDK4V2
+https://giphy.com/gifs/charlie-hunnam-gif-hunt-102h4wsmCG2s12
+-->
 ### Deploying sites
 
 *Github pages*
