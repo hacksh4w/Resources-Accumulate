@@ -142,6 +142,7 @@
 *Badges*
 - https://github.com/alexandresanlim/Badges4-README.md-Profile/blob/master/README.md
 - https://shields.io/
+- https://profile-readme-generator.com/
 
 <!------
 - https://github.com/guilyx
