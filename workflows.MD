@@ -50,11 +50,11 @@ To have this happen automatically for branches without a tracking
 upstream, see 'push.autoSetupRemote' in 'git help config'.
 
 # How to write Git commit messages? 
-- **Content**: Be direct, try to eliminate filler words and phrases in these sentences (examples: though, maybe, I think, kind of). Think like a journalist
-- **Mood**: Use imperative mood in the subject line. Example – Add fix for dark mode toggle state. Imperative mood gives the tone you are giving an order or request.
-- **Length**: The first line <= 50 characters, and the body <= 72 characters.
+- *Content*: Be direct, try to eliminate filler words and phrases in these sentences (examples: though, maybe, I think, kind of). Think like a journalist
+- *Mood*: Use imperative mood in the subject line. Example – Add fix for dark mode toggle state. Imperative mood gives the tone you are giving an order or request.
+- *Length*: The first line <= 50 characters, and the body <= 72 characters.
 
-- **Type of Commit**: Specify the type of commit; use consistent set of words to describe changes. 
+- *Type of Commit*: Specify the type of commit; use consistent set of words to describe changes. 
 	Example: Bugfix, Update, Refactor, Bump ...
 
 The commit type can include the following:
