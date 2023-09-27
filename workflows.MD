@@ -76,5 +76,5 @@ revert – reverts a previous commit
 
 
 Examples  :
-` feat : add search bar functionality 
-docs : add proj desc, abstract, hosted link `
+` feat : add search bar functionality`
+`docs : add proj desc, abstract, hosted link `
