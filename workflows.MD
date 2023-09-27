@@ -1,5 +1,28 @@
 # CLI- CMD workflow
+<br>
 
+# How to create frontend and backend for a full stack app from initialization using Vite 
+
+FRONTEND 
+- cd into Frontend
+- npm create vite@latest 
+- . for same directory, or any name
+- JS  + WSC
+- npm i
+- npm run dev
+
+
+BACKEND 
+- mkdir backend
+- cd into Backend
+- create server.js
+- npm i express   //- npm init -y; to create package .json
+- npm install -g nodemon / npm install --save-dev nodemon
+- in package .json
+"scripts": {
+  "start": "nodemon server.js"
+}
+- npm start
 
 ## Initializing a git file (usual cmd commands not mentioned) => assume already logged into to Git
 
@@ -26,3 +49,5 @@ To push the current branch and set the remote as upstream, use
 
 To have this happen automatically for branches without a tracking
 upstream, see 'push.autoSetupRemote' in 'git help config'.
+
+
