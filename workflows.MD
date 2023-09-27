@@ -1,5 +1,4 @@
 # CLI- CMD workflow
-<br>
 
 # How to create frontend and backend for a full stack app from initialization using Vite 
 
@@ -24,7 +23,7 @@ BACKEND
 }
 - npm start
 
-## Initializing a git file (usual cmd commands not mentioned) => assume already logged into to Git
+# Initializing a git file (usual cmd commands not mentioned) => assume already logged into to Git
 
 - make the files and usual shebang
     git init -b main // to initialise
@@ -50,4 +49,32 @@ To push the current branch and set the remote as upstream, use
 To have this happen automatically for branches without a tracking
 upstream, see 'push.autoSetupRemote' in 'git help config'.
 
+# How to write Git commit messages? 
+=> Mood: Use imperative mood in the subject line. Example – Add fix for dark mode toggle state. Imperative mood gives the tone you are giving an order or request.
 
+=> Type of Commit: Specify the type of commit; use consistent set of words to describe changes. 
+	Example: Bugfix, Update, Refactor, Bump ...
+
+=> Length: The first line <= 50 characters, and the body <= 72 characters.
+
+=> Content: Be direct, try to eliminate filler words and phrases in these sentences (examples: though, maybe, I think, kind of). Think like a journalist
+
+
+The commit type can include the following:
+
+feat – a new feature is introduced with the changes
+fix – a bug fix has occurred
+chore – changes that do not relate to a fix or feature and don't modify src or test files (for example updating dependencies)
+refactor – refactored code that neither fixes a bug nor adds a feature
+docs – updates to documentation such as a the README or other markdown files
+style – changes that do not affect the meaning of the code, likely related to code formatting such as white-space, missing semi-colons, and so on.
+test – including new or correcting previous tests
+perf – performance improvements
+ci – continuous integration related
+build – changes that affect the build system or external dependencies
+revert – reverts a previous commit
+
+
+Examples  :
+` feat : add search bar functionality 
+docs : add proj desc, abstract, hosted link `
