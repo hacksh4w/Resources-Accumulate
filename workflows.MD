@@ -4,17 +4,17 @@
 ## Initializing a git file (usual cmd commands not mentioned) => assume already logged into to Git
 
 - make the files and usual shebang
-git init -b main // to initialise
-git add .
-git commit -m "first commit " // commits git locally 
+    git init -b main // to initialise
+    git add .
+    git commit -m "first commit " // commits git locally 
 
 // now for pushing to gh
 - manually create a repo of reqd name
 - dont create readme or uplaod any files
 - copy repo url
-- git remote add origin url
-- git remote -v
-- git push origin main
+    git remote add origin url
+    git remote -v
+    git push origin main
 - now we're good to go
 
 
