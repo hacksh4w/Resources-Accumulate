@@ -68,7 +68,7 @@ The commit type can include the following:
 - test – including new or correcting previous tests
 - perf – performance improvements
 - ci – continuous integration related
-- build – changes that affect the build system or external dependencies
+- build – changes that affect the build system or external dependencies.
 - revert – reverts a previous commit.
 
 
