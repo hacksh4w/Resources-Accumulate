@@ -67,7 +67,7 @@ The commit type can include the following:
 - style – changes that do not affect the meaning of the code, likely related to code formatting such as white-space, missing semi-colons, and so on.
 - test – including new or correcting previous tests
 - perf – performance improvements
-- ci – continuous integration related
+- ci – continuous integration related.
 - build – changes that affect the build system or external dependencies.
 - revert – reverts a previous commit.
 
