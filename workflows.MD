@@ -1,51 +1,9 @@
 # CLI- CMD workflow
 
-# How to create frontend and backend for a full stack app from initialization using Vite 
-
-FRONTEND 
-- cd into Frontend
-
-	cd frontend
-
-	npm create vite@latest 
-- . for same directory, or any name
-- choose JS  + WSC
-Perform the following command to install all the files
-
-	npm i
-
-Perform the following command to run localhost server of your site
-
-	npm run dev
-
-BACKEND 
-	
-	mkdir backend
-
-- cd into Backend
-
-	cd backend
-
-- create `server.js` file
-	
-	npm i express   //- npm init -y; to create package .json
-
-	npm install -g nodemon / npm install --save-dev nodemon
-
-In your `package .json` file add
-
-`"scripts": {
-  "start": "nodemon server.js"
-}`
-
-Then run the following to start server
-
-	npm start
-
 # Initializing a git file (usual cmd commands not mentioned) => assume already logged into to Git
 
-Mmake the files and usual shebang.
-To Initialize a new branch, main, in the repository 
+Make the files and usual things
+To Initialize a new branch, main, in the repository type the following in ur terminal
 	
 	git init -b main
   	
@@ -53,14 +11,14 @@ TO add all files :
 
 	git add . 
   	
-// commits git locally 
+Commits git locally in your PC
 
 	git commit -m "first commit " 
 
 // now for pushing to gh
-- manually create a repo of reqd name
-- dont create readme or uplaod any files
-- copy repo url
+- manually create a repo of reqd name in github.com in your account
+- do not create readme or upload any files 
+- copy repo url that github.com generate's for you
 
 	git remote add origin url
 
@@ -81,6 +39,59 @@ To push the current branch and set the remote as upstream, use
 
 To have this happen automatically for branches without a tracking
 upstream, see 'push.autoSetupRemote' in 'git help config'.
+
+
+# How to create frontend and backend for a full stack app from initialization using Vite 
+
+### FRONTEND 
+Make frontend Repository
+
+	mkdir frontend
+
+Move inside the frontend directory/folder : (. for same directory, or any name)
+
+	cd frontend    
+
+Run the following vite command to initialize vite
+
+	npm create vite@latest 
+
+- choose JS  + WSC in the options 
+- mention your preferred name
+
+Perform the following command to install all the files
+
+	npm i
+
+Perform the following command to run localhost server of your site
+
+	npm run dev
+
+### BACKEND Process
+	
+	mkdir backend
+
+cd into Backend
+
+	cd backend
+
+Create `server.js` file
+	
+	npm i express   //- npm init -y; to create package .json
+
+Install nodemon 
+
+	npm install -g nodemon / npm install --save-dev nodemon
+
+In your `package .json` file add
+
+`"scripts": {
+  "start": "nodemon server.js"
+}`
+
+Then run the following to start server
+
+	npm start
 
 # How to write Git commit messages? 
 - *Content*: Be direct, try to eliminate filler words and phrases in these sentences (examples: though, maybe, I think, kind of). Think like a journalist
