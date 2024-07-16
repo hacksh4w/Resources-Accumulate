@@ -4,24 +4,43 @@
 
 FRONTEND 
 - cd into Frontend
-- npm create vite@latest 
-- . for same directory, or any name
-- JS  + WSC
-- npm i
-- npm run dev
 
+	cd frontend
+
+	npm create vite@latest 
+- . for same directory, or any name
+- choose JS  + WSC
+Perform the following command to install all the files
+
+	npm i
+
+Perform the following command to run localhost server of your site
+
+	npm run dev
 
 BACKEND 
-- mkdir backend
+	
+	mkdir backend
+
 - cd into Backend
-- create server.js
-- npm i express   //- npm init -y; to create package .json
-- npm install -g nodemon / npm install --save-dev nodemon
-- in package .json
-"scripts": {
+
+	cd backend
+
+- create `server.js` file
+	
+	npm i express   //- npm init -y; to create package .json
+
+	npm install -g nodemon / npm install --save-dev nodemon
+
+In your `package .json` file add
+
+`"scripts": {
   "start": "nodemon server.js"
-}
-- npm start
+}`
+
+Then run the following to start server
+
+	npm start
 
 # Initializing a git file (usual cmd commands not mentioned) => assume already logged into to Git
 
@@ -34,19 +53,26 @@ TO add all files :
 
 	git add . 
   	
-git commit -m "first commit " 
 // commits git locally 
+
+	git commit -m "first commit " 
 
 // now for pushing to gh
 - manually create a repo of reqd name
 - dont create readme or uplaod any files
 - copy repo url
-    git remote add origin url
-    git remote -v
-    git push origin main
-- now we're good to go
 
+	git remote add origin url
 
+To check ur remote branch (it shud say main)
+
+	git remote -v
+
+Now to push all ur files and changes to the main branch of your remote repository
+
+	git push origin main
+
+And, now we're good to go!
 
 Note : the error `fatal: The current branch main has no upstream branch`.
 To push the current branch and set the remote as upstream, use
