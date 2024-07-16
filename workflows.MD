@@ -25,13 +25,16 @@ BACKEND
 
 # Initializing a git file (usual cmd commands not mentioned) => assume already logged into to Git
 
-- make the files and usual shebang
+Mmake the files and usual shebang.
 To Initialize a new branch, main, in the repository 
 	
 	git init -b main
   	
-git add . 
-  		git commit -m "first commit " 
+TO add all files : 
+
+	git add . 
+  	
+git commit -m "first commit " 
 // commits git locally 
 
 // now for pushing to gh
