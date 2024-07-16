@@ -26,7 +26,8 @@ BACKEND
 # Initializing a git file (usual cmd commands not mentioned) => assume already logged into to Git
 
 - make the files and usual shebang
-  ` git init -b main`  // to initialise
+To Initialize a new branch, main, in the repository 
+   git init -b main
   `  git add . `
   `  git commit -m "first commit " ` // commits git locally 
 
