@@ -27,8 +27,10 @@ BACKEND
 
 - make the files and usual shebang
 To Initialize a new branch, main, in the repository 
-		git init -b main
-  		git add . 
+	
+	git init -b main
+  	
+git add . 
   		git commit -m "first commit " 
 // commits git locally 
 
