@@ -1,6 +1,12 @@
 # CLI- CMD workflow
 
-# Initializing a git file ( assumption : already logged into to Github)
+## Table of Contents
+1. [Initializing a git repo & pushing](#-Initializing-a-git-repo-&-pushing)
+2. [How to create frontend and backend for a full stack app from initialization using Vite ](#)
+3. [# How to write Git commit messages? ](#Commit-Messages)
+
+# Initializing a git repo & pushing 
+( assumption : already logged into to Github )
 
 Make the files and usual things
 To Initialize a new branch, main, in the repository type the following in ur terminal
@@ -85,15 +91,15 @@ Install nodemon
 
 In your `package .json` file add
 
-`"scripts": {
-  "start": "nodemon server.js"
-}`
+`"scripts": {`
+ ` "start": "nodemon server.js"`
+`}`
 
 Then run the following to start server
 
 	npm start
-
-# How to write Git commit messages? 
+# Commit Messages
+## How to write Git commit messages? 
 - *Content*: Be direct, try to eliminate filler words and phrases in these sentences (examples: though, maybe, I think, kind of). Think like a journalist
 - *Mood*: Use imperative mood in the subject line. Example – Add fix for dark mode toggle state. Imperative mood gives the tone you are giving an order or request.
 - *Length*: The first line <= 50 characters, and the body <= 72 characters.
