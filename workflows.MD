@@ -1,6 +1,6 @@
 # CLI- CMD workflow
 
-# Initializing a git file (usual cmd commands not mentioned) => assume already logged into to Git
+# Initializing a git file ( assumption : already logged into to Github)
 
 Make the files and usual things
 To Initialize a new branch, main, in the repository type the following in ur terminal
