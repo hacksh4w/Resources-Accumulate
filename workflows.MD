@@ -3,7 +3,7 @@
 ## Table of Contents
 1. [Initializing a git repo & pushing](#-Initializing-a-git-repo-&-pushing)
 2. [How to create frontend and backend for a full stack app from initialization using Vite ](#)
-3. [# How to write Git commit messages? ](#Commit-Messages)
+3. [How to write Git commit messages?](#Commit-Messages)
 
 # Initializing a git repo & pushing 
 ( assumption : already logged into to Github )
