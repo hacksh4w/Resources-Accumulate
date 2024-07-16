@@ -93,9 +93,9 @@ Install nodemon
 
 In your `package .json` file add
 
-`"scripts": {`
- ` "start": "nodemon server.js"`
-`}`
+`"scripts": {
+  "start": "nodemon server.js"
+}`
 
 Then run the following to start server
 
@@ -125,5 +125,9 @@ The commit type can include the following:
 
 
 Examples  :
-` feat : add search bar functionality`
-`docs : add proj desc, abstract, hosted link `
+
+	git commit -m "feat : add search bar functionality"
+
+For documentation changes
+
+	git commit -m "docs : add proj desc, abstract, hosted link"
