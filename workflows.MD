@@ -15,10 +15,10 @@ Commits git locally in your PC
 
 	git commit -m "first commit " 
 
-// now for pushing to gh
-- manually create a repo of reqd name in github.com in your account
-- do not create readme or upload any files 
-- copy repo url that github.com generate's for you
+####  now for pushing to gh
+Manually create a repo of reqd name in github.com in your account
+Note : do not create readme or upload any files 
+Copy repo url that github.com generate's for you
 
 	git remote add origin url
 
