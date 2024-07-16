@@ -1,11 +1,12 @@
 # CLI- CMD workflow
 
 ## Table of Contents
-1. [Initializing a git repo & pushing](#-Initializing-a-git-repo-&-pushing)
-2. [How to create frontend and backend for a full stack app from initialization using Vite ](#)
+1. [Initializing a git repo & pushing](#Git-Commands)
+2. [How to create frontend and backend for a full stack app from initialization using Vite ](#Initialize-Full-Stack-App)
 3. [How to write Git commit messages?](#Commit-Messages)
 
-# Initializing a git repo & pushing 
+# Git Commands
+## Initializing a git repo & pushing 
 ( assumption : already logged into to Github )
 
 Make the files and usual things
@@ -13,7 +14,7 @@ To Initialize a new branch, main, in the repository type the following in ur ter
 	
 	git init -b main
   	
-TO add all files : 
+To add all files : 
 
 	git add . 
   	
@@ -47,9 +48,10 @@ To have this happen automatically for branches without a tracking
 upstream, see 'push.autoSetupRemote' in 'git help config'.
 
 
-# How to create frontend and backend for a full stack app from initialization using Vite 
+# Initialize Full Stack App
+## How to create frontend and backend for a full stack app from initialization using Vite 
 
-### FRONTEND 
+## FRONTEND 
 Make frontend Repository
 
 	mkdir frontend
@@ -73,7 +75,7 @@ Perform the following command to run localhost server of your site
 
 	npm run dev
 
-### BACKEND Process
+## BACKEND Process
 	
 	mkdir backend
 
